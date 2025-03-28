@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.17.0"
     },
-    "repository": "https://github.com/NascHQ/nasc-vscode-mac-touchbar",
+    "repository": "https://github.com/xsa-dev/nasc-vscode-mac-touchbar",
     "categories": [
         "Other"
     ],
